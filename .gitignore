@@ -1,2 +1,4 @@
 .venv
 myenv
+
+models/blind_spot_model.keras
